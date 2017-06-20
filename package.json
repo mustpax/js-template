@@ -2,5 +2,10 @@
   "devDependencies": {
     "eslint": "^3.0.1"
   },
-  "scripts": {}
+  "scripts": {
+    "start": "ts-node app.ts"
+  },
+  "dependencies": {
+    "ts-node": "^3.0.6"
+  }
 }
