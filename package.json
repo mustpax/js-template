@@ -1,4 +1,5 @@
 {
+  "license": "UNLICENSED",
   "devDependencies": {
     "babel-eslint": "^6.1.0",
     "concurrently": "^2.2.0",

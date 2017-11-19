@@ -1,0 +1,20 @@
+{
+  "env": {
+    "browser": true,
+    "node": false,
+    "es6": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2015
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": 0,
+    "react/jsx-uses-react": 2,
+    "react/jsx-uses-vars": 2,
+    "react/react-in-jsx-scope": 2
+  },
+  "plugins": [
+    "react"
+  ]
+}
