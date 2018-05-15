@@ -1,11 +1,13 @@
 {
   "env": {
     "browser": true,
-    "node": true,
-    "es6": true
+    "node": true
   },
   "parserOptions": {
-    "ecmaVersion": 6
+    "ecmaVersion": 2017
+  },
+  "engines": {
+    "node": "8.x"
   },
   "extends": "eslint:recommended",
   "rules": {
