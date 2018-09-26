@@ -19,7 +19,7 @@
     "default-case": 2,
     "indent": [1, 2],
     "no-unexpected-multiline": 2,
-    "semi": 0,
+    "semi": [2, "always"],
     "consistent-return": 2,
     "no-fallthrough": 2,
     "default-case": 2,
