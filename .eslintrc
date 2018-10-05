@@ -21,7 +21,6 @@
   },
   "rules": {
     "semi": ["error", "always"],
-    "comma-dangle": ["error", "always"],
     "no-console": 0,
     "space-before-function-paren": ["error", "never"],
     "react/prop-types": 0,
