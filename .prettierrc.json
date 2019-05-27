@@ -1,0 +1,12 @@
+{
+  {
+    "overrides": [
+      {
+        "files": "*.hbs",
+        "options": {
+          "parser": "html"
+        }
+      }
+    ]
+  }
+}
